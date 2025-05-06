@@ -1,8 +1,8 @@
 CMakeFiles/sssp-updater.dir/src/sssp_local.cpp.o: \
- /home/mahad/Desktop/PDC/Project/code/src/sssp_local.cpp \
+ /home/munjenko/PDC/PDC-SSSP-MPI-METIS/code/src/sssp_local.cpp \
  /usr/include/stdc-predef.h \
- /home/mahad/Desktop/PDC/Project/code/include/sssp_local.hpp \
- /home/mahad/Desktop/PDC/Project/code/include/graph.hpp \
+ /home/munjenko/PDC/PDC-SSSP-MPI-METIS/code/include/sssp_local.hpp \
+ /home/munjenko/PDC/PDC-SSSP-MPI-METIS/code/include/graph.hpp \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

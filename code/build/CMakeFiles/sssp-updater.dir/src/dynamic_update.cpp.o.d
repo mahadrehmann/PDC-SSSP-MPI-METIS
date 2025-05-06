@@ -1,8 +1,8 @@
 CMakeFiles/sssp-updater.dir/src/dynamic_update.cpp.o: \
- /home/mahad/Desktop/PDC/Project/code/src/dynamic_update.cpp \
+ /home/munjenko/PDC/PDC-SSSP-MPI-METIS/code/src/dynamic_update.cpp \
  /usr/include/stdc-predef.h \
- /home/mahad/Desktop/PDC/Project/code/include/dynamic_update.hpp \
- /home/mahad/Desktop/PDC/Project/code/include/graph.hpp \
+ /home/munjenko/PDC/PDC-SSSP-MPI-METIS/code/include/dynamic_update.hpp \
+ /home/munjenko/PDC/PDC-SSSP-MPI-METIS/code/include/graph.hpp \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -134,7 +134,7 @@ CMakeFiles/sssp-updater.dir/src/dynamic_update.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/mahad/Desktop/PDC/Project/code/include/sssp_local.hpp \
+ /home/munjenko/PDC/PDC-SSSP-MPI-METIS/code/include/sssp_local.hpp \
  /usr/include/c++/11/queue /usr/include/c++/11/deque \
  /usr/include/c++/11/bits/stl_deque.h /usr/include/c++/11/bits/deque.tcc \
  /usr/include/c++/11/bits/stl_heap.h /usr/include/c++/11/bits/stl_queue.h \

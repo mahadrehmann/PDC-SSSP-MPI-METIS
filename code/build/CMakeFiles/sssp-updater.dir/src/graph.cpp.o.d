@@ -1,7 +1,7 @@
 CMakeFiles/sssp-updater.dir/src/graph.cpp.o: \
- /home/mahad/Desktop/PDC/Project/code/src/graph.cpp \
+ /home/munjenko/PDC/PDC-SSSP-MPI-METIS/code/src/graph.cpp \
  /usr/include/stdc-predef.h \
- /home/mahad/Desktop/PDC/Project/code/include/graph.hpp \
+ /home/munjenko/PDC/PDC-SSSP-MPI-METIS/code/include/graph.hpp \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

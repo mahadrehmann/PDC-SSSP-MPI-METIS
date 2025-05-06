@@ -1,8 +1,8 @@
 CMakeFiles/sssp-updater.dir/src/metis_partition.cpp.o: \
- /home/mahad/Desktop/PDC/Project/code/src/metis_partition.cpp \
+ /home/munjenko/PDC/PDC-SSSP-MPI-METIS/code/src/metis_partition.cpp \
  /usr/include/stdc-predef.h \
- /home/mahad/Desktop/PDC/Project/code/include/metis_partition.hpp \
- /home/mahad/Desktop/PDC/Project/code/include/graph.hpp \
+ /home/munjenko/PDC/PDC-SSSP-MPI-METIS/code/include/metis_partition.hpp \
+ /home/munjenko/PDC/PDC-SSSP-MPI-METIS/code/include/graph.hpp \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
