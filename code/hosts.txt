@@ -1,0 +1,3 @@
+asim  slots=1
+mahad slots=1
+aniq  slots=1

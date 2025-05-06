@@ -1,0 +1,6 @@
+cd code/build
+make clean
+cmake ..
+make
+
+./sssp-updater
