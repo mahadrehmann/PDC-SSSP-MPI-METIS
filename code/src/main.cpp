@@ -1,5 +1,4 @@
 // code/src/main.cpp
-
 #include "graph.hpp"
 #include "dynamic_update.hpp"
 #include "metis_partition.hpp"
